@@ -1,0 +1,7 @@
+**Midterm exam** on {{< var course.midterm >}} in class
+
+**Project proposal** due {{< var course.proposal >}} online
+
+**Project submission** due {{< var course.final-submission >}} online
+
+**Project peer evaluation** on {{< var course.final-review >}} online
