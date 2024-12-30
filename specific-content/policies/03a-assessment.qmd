@@ -12,7 +12,7 @@ Note that during week zero we will have online quizzes which will be graded for 
 ### Homework Assignments
 
 At the end of Wednesday after weekly topics are completed you will be assigned a homework on these topics. You will have until the following lecture to finish the homework assignments. 
-In other words, homework assignments will be due 9:25 am on Mondays.
+In other words, homework assignments will be due {{< var course.homework >}}.
 For homework assignments, you can use books and notes, talk to other people in your class, use online resources including ChatGPT however there are some limitations.
 
 - Use tools and discuss with people to LEARN. Do not use tools or discuss with people to simply copy and submit the homework.
