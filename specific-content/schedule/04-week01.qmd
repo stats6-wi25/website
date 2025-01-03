@@ -61,7 +61,7 @@
   
   <tr>
     <td><input type="checkbox" /></td>
-    <td> Quiz 1b: First Steps with Data &nbsp; &nbsp; </td>
+    <td> Quiz 1b  &nbsp; &nbsp; </td>
     <td>Normally conducted in class but online due to online lecture</td>
     <td><a href="https://www.gradescope.com/courses/934609/assignments/5504922" target ="_blank"> <i class="fas fa-edit" aria-hidden="true"
             title="External Link to GitHub" target = "_blank"></i></a></td>
