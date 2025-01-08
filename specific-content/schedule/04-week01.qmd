@@ -44,8 +44,8 @@
     <td><input type="checkbox" /></td>
     <td> Describing Data with Numbers &nbsp; &nbsp; </td>
     <td>Data Frames, Variables, and Descriptive Statistics (VIDEO RECORDED CLASS)</td>
-    <td><a href="" target ="_blank"> <i class="fas fa-video" aria-hidden="true"
-            title="External Link to Video" target = "_blank"></i></a><a href="https://stats6-fa24.github.io/slides/week01/1b-describe-data.html" target ="_blank"> <i class="fas fa-laptop" aria-hidden="true"
+    <td><a href="https://uci.yuja.com/V/Video?v=12097510&node=52513267&a=11828048" target ="_blank"> <i class="fas fa-video" aria-hidden="true"
+            title="External Link to Video" target = "_blank"></i></a> <a href="https://stats6-fa24.github.io/slides/week01/1b-describe-data.html" target ="_blank"> <i class="fas fa-laptop" aria-hidden="true"
             title="External Link to Slides" target = "_blank"></i></a> </td>
     <td></td>
   </tr>
