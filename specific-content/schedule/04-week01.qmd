@@ -16,7 +16,7 @@
     <td><input type="checkbox" /></td>
     <td> Introduction to STATS 6 and the Toolkit &nbsp; &nbsp; </td>
     <td>Welcome!!!</td>
-    <td><a href="https://stats6-fa24.github.io/slides/week01/1a-intro-toolkit.html" target ="_blank"> <i class="fas fa-laptop" aria-hidden="true"
+    <td><a href="https://stats6-wi25.github.io/slides/week01/1a-intro-toolkit.html" target ="_blank"> <i class="fas fa-laptop" aria-hidden="true"
             title="External Link to Slides" target = "_blank"></i></a>
       </td>
     <td></td>
@@ -45,7 +45,7 @@
     <td> Describing Data with Numbers &nbsp; &nbsp; </td>
     <td>Data Frames, Variables, and Descriptive Statistics (VIDEO RECORDED CLASS)</td>
     <td><a href="https://uci.yuja.com/V/Video?v=12097510&node=52513267&a=11828048" target ="_blank"> <i class="fas fa-video" aria-hidden="true"
-            title="External Link to Video" target = "_blank"></i></a> <a href="https://stats6-fa24.github.io/slides/week01/1b-describe-data.html" target ="_blank"> <i class="fas fa-laptop" aria-hidden="true"
+            title="External Link to Video" target = "_blank"></i></a> <a href="https://stats6-wi25.github.io/slides/week01/1b-describe-data.html" target ="_blank"> <i class="fas fa-laptop" aria-hidden="true"
             title="External Link to Slides" target = "_blank"></i></a> </td>
     <td></td>
   </tr>
@@ -71,7 +71,7 @@
     <td><input type="checkbox" /></td>
     <td> Homework 1: First Steps with Data &nbsp; &nbsp; </td>
     <td>In Week 1 repo</td>
-    <td><a href="https://github.com/stats6-fa24" target ="_blank"> <i class="fa-brands fa-github" aria-hidden="true"
+    <td><a href="https://github.com/stats6-wi25" target ="_blank"> <i class="fa-brands fa-github" aria-hidden="true"
             title="External Link to GitHub" target = "_blank"></i></a></td>
     <td>Jan 14, 1:55 pm</td>
   </tr>
