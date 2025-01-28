@@ -6,7 +6,7 @@
 ### Introduction Data Science 
 University of California Irvine 
 
-Winter 2024
+Winter 2025
 
 [Dr. Mine Dogucu](https://minedogucu.com)  
 TA: Rasul Ibragimov
