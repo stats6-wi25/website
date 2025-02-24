@@ -14,7 +14,7 @@
     <td><input type="checkbox" /></td>
     <td> Introduction to Frequentist Inference: Inference for a Proportion &nbsp; &nbsp; </td>
     <td> </td>
-    <td><a href="https://stats6-wi25.github.io/slides/week08/8b-freq-inference2.html" target ="_blank"> <i class="fas fa-laptop" aria-hidden="true"
+    <td><a href="https://stats6-wi25.github.io/slides/week08/8a-freq-inference2.html" target ="_blank"> <i class="fas fa-laptop" aria-hidden="true"
             title="External Link to Slides" target = "_blank"></i></a> </td>
     <td></td>
   </tr>
